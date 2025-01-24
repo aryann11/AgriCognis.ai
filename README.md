@@ -53,9 +53,3 @@ The Neo4j vector store (backed by OpenAI embeddings) is used to perform similari
 
 Answer Generation:
 Combines structured and unstructured data to generate concise answers via OpenAI’s GPT model.
-
-Endpoints:
-
-/: Renders the homepage.
-
-/ask: Accepts a JSON payload with a question and returns the AI-powered answer.
